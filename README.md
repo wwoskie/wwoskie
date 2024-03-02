@@ -3,7 +3,7 @@
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=wwoskie&show_icons=true&theme=tokyonight&card_width=550px"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: tokyonight)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=wwoskie&show_icons=true"
@@ -13,7 +13,7 @@
 </picture>
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=wwoskie&theme=tokyonight&card_width=550px" />
+    <source media="(prefers-color-scheme: tokyonight)" srcset="https://streak-stats.demolab.com?user=wwoskie&theme=tokyonight&card_width=550px" />
     <img src="https://streak-stats.demolab.com?user=wwoskie&theme=default" />
 </picture>
 
