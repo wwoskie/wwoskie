@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=wwoskie&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=wwoskie&theme=default" />
 </picture>
 
