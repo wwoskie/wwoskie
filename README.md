@@ -6,15 +6,15 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=wwoskie&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=wwoskie&show_icons=true&card_width=550px"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=wwoskie&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wwoskie&show_icons=true&card_width=550px" />
 </picture>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=wwoskie&theme=tokyonight&card_width=550px" />
-    <img src="https://streak-stats.demolab.com?user=wwoskie&theme=default" />
+    <img src="https://streak-stats.demolab.com?user=wwoskie&theme=default&card_width=550px" />
 </picture>
 
 <!--
