@@ -3,20 +3,28 @@
 
 <h2>Research experience:</h2>
 <details>
-  <summary>Bioinformatics institute project</summary><br>
+  <summary><b>Bioinformatics institute project:</b> Pipeline for Loss of heterozygosity regions in exome and genome sequencing data</summary>
+<p>
 
 Currently our team developing pipeline for loss of heterozygosity detection [HaploGone](https://github.com/wwoskie/HaploGone)
-</details><br>
+</p>
+
+</details>
 <details>
-  <summary>MSc thesis</summary><br>
+  <summary><b>MSc thesis:</b> HIV-1 variability and antiretroviral therapy resistance mutations in the Russian Federation</summary>
+<p>
   
 Assisted in development of novel test system for HIV-1 detection. Performed Sanger sequencing and antiretroveral drug resistance prediction with  `SierraPy` and  `sierra-local` tools
-</details><br>
+</p>
+</details>
 <details>
-  <summary>BSc thesis</summary><br>
+  <summary><b>BSc thesis:</b> Effects of hypoxia-inducible factor 1 on immune activation in human atherosclerotic plaques <i>ex vivo</i></summary>
+<p>
 
 Investigated role of hypoxia-inducible factor-1α (HIF-1α) in immunoactivation in human *ex-vivo* atherosclerotic plaques. Conducted experiments with peripheral blood mononuclear cells to determine cytotoxicity. Performed cell and explant short-term hypoxic cultivation.
-</details><br>
+</details>
+</p>
+<br>
 
 <p align="center">
   <picture>
