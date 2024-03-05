@@ -29,20 +29,20 @@ Investigated role of hypoxia-inducible factor-1α (HIF-1α) in immunoactivation 
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=wwoskie&show_icons=true&theme=tokyonight&card_width=550px"
+      srcset="https://github-readme-stats.vercel.app/api?username=wwoskie&show_icons=true&theme=tokyonight&card_width=700px"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=wwoskie&show_icons=true&card_width=550px"
+      srcset="https://github-readme-stats.vercel.app/api?username=wwoskie&show_icons=true&card_width=700px"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=wwoskie&show_icons=true&card_width=550px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wwoskie&show_icons=true&card_width=700px" />
   </picture>
 </p>
 
 <p align="center">
   <picture >
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=wwoskie&theme=tokyonight&card_width=550px" />
-      <img src="https://streak-stats.demolab.com?user=wwoskie&theme=default&card_width=550px" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=wwoskie&theme=tokyonight&card_width=700px" />
+      <img src="https://streak-stats.demolab.com?user=wwoskie&theme=default&card_width=700px" />
   </picture>
 </p>
