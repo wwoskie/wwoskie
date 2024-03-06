@@ -18,10 +18,10 @@ Assisted in development of novel test system for HIV-1 detection. Performed Sang
 </p>
 </details>
 <details>
-  <summary><b>BSc thesis:</b> Effects of hypoxia-inducible factor 1 on immune activation in human atherosclerotic plaques <i>ex vivo</i></summary>
+  <summary><b>BSc thesis:</b> Effects of hypoxia-inducible factor 1α on immune activation in human atherosclerotic plaques <i>ex vivo</i></summary>
 <p>
 
-Investigated role of hypoxia-inducible factor-1α (HIF-1α) in immunoactivation in human *ex-vivo* atherosclerotic plaques. Conducted experiments with peripheral blood mononuclear cells to determine cytotoxicity. Performed cell and explant short-term hypoxic cultivation.
+Investigated cytotoxicity of PX-478 (HIF-1α inhibitor) and CoCl2 (HIF-1α activator) and their effect on immunoactivation in human *ex-vivo* atherosclerotic plaques. Extracted peripheral blood mononuclear cells (PBMC). Performed PBMC and explant short-term hypoxic cultivation.
 </details>
 </p>
 <br>
@@ -29,20 +29,20 @@ Investigated role of hypoxia-inducible factor-1α (HIF-1α) in immunoactivation 
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=wwoskie&show_icons=true&theme=tokyonight&card_width=700px"
+      srcset="https://github-readme-stats.vercel.app/api?username=wwoskie&show_icons=true&theme=tokyonight&card_width=550px"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=wwoskie&show_icons=true&card_width=700px"
+      srcset="https://github-readme-stats.vercel.app/api?username=wwoskie&show_icons=true&card_width=550px"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=wwoskie&show_icons=true&card_width=700px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wwoskie&show_icons=true&card_width=550px" />
   </picture>
 </p>
 
 <p align="center">
   <picture >
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=wwoskie&theme=tokyonight&card_width=700px" />
-      <img src="https://streak-stats.demolab.com?user=wwoskie&theme=default&card_width=700px" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=wwoskie&theme=tokyonight&card_width=550px" />
+      <img src="https://streak-stats.demolab.com?user=wwoskie&theme=default&card_width=550px" />
   </picture>
 </p>
