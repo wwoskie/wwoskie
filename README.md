@@ -64,12 +64,15 @@ Investigated cytotoxicity of PX-478 (HIF-1α inhibitor) and CoCl2 (HIF-1α activ
 </details>
 
 <h2>Other</h2>
-  <h3><b>Languages:</b></h3>
-  <ul>
+  <b>Languages:</b>
+  <p>
+   <ul>
     <li><b>English:</b> Upper Intermediate (B2)</li>
     <li><b>Russian:</b> Native</li>
-  </ul>
-  <h3><details>
+   </ul>
+  </p>
+  
+  <details>
   <summary><b>GitHub Stats</b></summary>
 
   <p align="center">
@@ -92,7 +95,7 @@ Investigated cytotoxicity of PX-478 (HIF-1α inhibitor) and CoCl2 (HIF-1α activ
       <img src="https://streak-stats.demolab.com?user=wwoskie&theme=default&card_width=550px" />
   </picture>
 </p>
-</details></h3>
+</details>
 
 
 
