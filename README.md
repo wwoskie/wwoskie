@@ -67,7 +67,7 @@ Investigated cytotoxicity of PX-478 (HIF-1α inhibitor) and CoCl2 (HIF-1α activ
   <b>Languages:</b>
   <p>
    <ul>
-    <li><b>English:</b> Upper Intermediate (B2)</li>
+    <li><b>English:</b> Upper-Intermediate (B2)</li>
     <li><b>Russian:</b> Native</li>
    </ul>
   </p>
